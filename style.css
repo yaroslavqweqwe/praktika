@@ -1,0 +1,176 @@
+body { 
+margin:0;
+background-image:url(http://drobs.ru/opyat/45/pyatna_fon_svetlyy_yarkiy_bleklyy_2560x1600.jpg);
+ }
+
+ .menu {
+  margin:0;
+  height: 50px;
+  background: black;
+ 
+ }
+.images {
+  position:absolute;
+  height: 50px;
+  width:50px;
+ background-image:url(https://t3.ftcdn.net/jpg/01/14/55/24/240_F_114552456_1f0spCnEcgWQS5wC2RP8ychT1OwsNYaE.jpg);
+}
+pre a:hover { 
+color:black; 
+}
+.info {
+  margin:0;
+text-align: right;
+margin-right:50px;
+
+    font-weight: bold;
+}
+ a {
+    text-decoration: none; 
+  color: white;
+      font-family: "Time new roman";
+  font-size: 14pt;
+margin-left: 20px;
+ }
+.city { 
+margin-right: 100px;
+position: absolute;
+left: 300px;
+top: 10px;
+ }
+
+.header { 
+height:50px;
+background: #007FFF;
+position: relative;
+margin-top: -13px;
+}
+
+.navigator {
+position: absolute;
+top: -20px;
+left: 550px;
+
+
+}
+
+.weather {
+  width: 150px;
+  height: 170px;
+  background: white;
+  display:inline-block;
+  margin-left: 50px;
+  margin-top: 80px;
+
+
+}
+
+.day {
+  background: #00BFFF;
+  margin: 0px;
+  text-align: center;
+  color: white;
+  font-size: 25px;
+}
+
+.weather img{
+  display: block;
+  margin: 0 auto;  
+}
+
+.temp {
+  text-align: center;
+  margin: 0;
+  font-size: 30px;
+}
+
+.weather:hover {
+  box-shadow: 0px 0 15px rgba(0,0,0,0.5);
+}
+
+.inf { 
+height: 200px;
+width: 800px;
+background: #F0FFF0;
+font-size: 20pt;
+margin-left: 25%;
+position: relative;
+border-radius: 10px;
+margin-top: 30px;
+ }
+
+ .inf:hover { 
+  box-shadow: 0 0 20px;
+   }
+
+ .dat { 
+float: left;
+margin-top: 0px;
+position: absolute;
+  }
+
+  .tm {
+    margin-top: 50px;
+    position: absolute;
+  margin-left: 90px;
+   display:inline-block;
+  }
+  .tm sup { 
+margin-right: 40px;
+   }
+
+   .dannie {
+    position: absolute;
+    margin-top: 100px;
+    margin-left: 45px;
+   }
+
+.dannie small {
+  margin-right: 55px;
+
+}
+
+.davl {
+  height: 200px;
+width: 800px;
+background: #F0FFF0;
+font-size: 20pt;
+margin-left: 25%;
+position: relative;
+border-radius: 10px;
+margin-top: 30px;
+}
+
+ .davl:hover { 
+  box-shadow: 0 0 20px;
+   }
+
+   hr {
+    margin-top: 50px;
+   margin-bottom: 0;
+   }
+   
+.niz a{
+  color: black;
+    font-weight: bold;
+ display: inline-block;
+ margin-top: 35px;
+ float: left;
+}
+
+.niz { 
+  margin-top: 0;
+  height: 100px;
+background-color: #E7E7E7;
+ }
+
+ .right { 
+
+  margin-top: -20px;
+  margin-right: 20px;
+float:right;
+  }
+
+.right img {
+  margin-top: -60px;
+}
